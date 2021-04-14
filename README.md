@@ -38,5 +38,41 @@ Gesellschaftswissenschaften, Zukunftsforschung.
 Derzeit liegt der Fokus klar auf der statistisch-mathematischen Seite, bei Bedarf und der dafür nötigen Expertise von 
 Mitwirkenden können jedoch weitere Perspektiven mit aufgenommen werden.
 
+---
+
+## Statistische Probleme
+
+In diese Kapitel werden einzelne Probleme kurz zusammengefasst. Jedes Problem wird mit einer ausführlichen Erklärung verlinkt.
+
+### 1. Anzahl der Tests
+Die Anzahl der Tests wird bei Entscheidung von Maßnahmen nicht oder nur unzureichend berücksichtigt.
+
+### 2. Sensitivität und Spezifität
+Der hohe Anteil von falsch positiven Tests unter allen positiven Tests wird unzureichend berücksichtigt.
+
+### 3. Definition von "an oder mit CoViD-19" verstorben
+Eine eingetragene Begleitkrankheit von CoViD-19 (*U07* im ICD-Code) wird meist als hauptsächliche Todesursache angführt und führt somit zu einer Verzerrung der Statistik.
+
+### 4. CoViD-19 wird selten mit anderen Krankheiten verglichen
+Um die Gefährlichkeit von Krankheiten bewerten zu können ist ein Vergleich notwendig.
+
+---
+
+## Modellbasierte Probleme
+
+### 5. Entscheidungen werden auf einen Aspekt reduziert
+Die zu optimierende Zielfunktion für die zu beschließenden Entscheidungen berücksichtigen hauptsächlich CoViD-19, Leid aufgrund anderer physische und psychische Krankheiten, sowie weitere Faktoren werden ignoriert.
+
+### 6. Modelle werden nicht ausreichend empirisch validiert
+Auch Modelle welche aus mehreren an sich plausiblen Schritten bestehen besitzen eine hohe Anzahl an Freiheitsgraden und bergen somit die Gefahr, auf zukünftigen Daten nicht erfolgreich zu sein. Daher ist eine gute emprische Validierung unerlässlich.
+
+### 7. Prädiktive Modelle waren bisher kaum erfolgreich
+Zurückblickend waren jene prädiktive Modelle welche vergangene Maßnahmen rechtfertigten nicht erfolgreich.
+
+### 8. Korrelationen werden mit Kausalitäten verwechselt
+Oftmals wurden Maßnahmen erst bei stagnierenden Inzidenzzahlen und somit bei bereits sinkendem R-Werte gesetzt. Daher liegt natürlicherweise eine Korrelation zwischen Maßnahmen und einem niedrigen R-Wert vor, aber nicht automatische eine Kausalität.
+
+### 9. Regionen mit geringen Maßnahmen werden oftmals ignoriert
+Die Validierung eines Modells muss auch für Regionen mit abweichenden Maßnahmen und Pandemie-Strategien standhalten.
 
 
