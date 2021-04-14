@@ -75,4 +75,10 @@ Oftmals wurden Maßnahmen erst bei stagnierenden Inzidenzzahlen und somit bei be
 ### 9. Regionen mit geringen Maßnahmen werden oftmals ignoriert
 Die Validierung eines Modells muss auch für Regionen mit abweichenden Maßnahmen und Pandemie-Strategien standhalten.
 
+---
+
+## Wissenschaftstheoretische Probleme
+
+### 10. Die Annahme der Kausalität, Politiker entscheiden aufgrund von unabhängigen wissenschaftlichen Ergebnissen muss hinterfragt werden
+Es gibt eine Vielzahl von Fällen in denen Politiker Druck auf die Forschung ausübten, Expertenteams politisch motiviert besetzt wurden und Wissenschaftler mit nicht erwünschten Ergebnissen politisch ausgeschlossen oder medial verpöhnt wurden.
 
