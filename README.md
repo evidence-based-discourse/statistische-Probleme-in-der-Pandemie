@@ -2,7 +2,7 @@
 
 Das Ziel dieses Projektes ist ein öffentlicher und transparenter Diskurs zu statistischen Problemen bei der Rechtfertigung von Maßnamen in der Pandemie.
 Unsere Grundannahme ist, dass Maßnahmen dem gesamtgesellschaftlichen Ziel der Minimierung 
-von Leid untergeordnet sind.
+von Leid dienen müssen.
 
 ## Motivation
 
@@ -49,7 +49,7 @@ Mitwirkenden können jedoch weitere Perspektiven mit aufgenommen werden.
 In diesem Kapitel werden einzelne Probleme aus dem statistischen Bereich kurz zusammengefasst. 
 Jedes Problem ist, sobald verfügbar, mit einer ausführlicheren Erklärung mit Quellenangaben verlinkt.
 
-### [1.1. Anzahl der Tests](docs/1_1_AnzahlDerTests.md)
+### [1.1. Anzahl der Tests](docs/1/1/1_1_AnzahlDerTests.md)
 Die Anzahl der durchgeführten Tests wird bei Entscheidungen über Maßnahmen nicht oder nur unzureichend berücksichtigt.
 
 ### [1.2. Sensitivität und Spezifität](docs/1_2_SensitivitätUndSpezifität.md)

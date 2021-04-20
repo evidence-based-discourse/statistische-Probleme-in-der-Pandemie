@@ -22,6 +22,24 @@ viele positive Tests erwartet werden. Folglich ist natürlich auch der Inzidenzw
 Ironischerweise führte der erhöhte Inzidenzwert sogar zu noch mehr Tests von Menschen ohne Verdacht
 auf Corona oder Symptomen, wodurch der Inzidenzwert noch weiter steigt.
 
+In der Nachfolgenden Abbildung ist ein Beispiel mit zwei Dörfern dargestellt, 
+welche jeweils etwa *1000* Einwohner haben und von denen jeweils *16* oder *1,6%* 
+infiziert sind. In dem linken Dorf werden in einer Woche *12,5%* der Einwohner 
+(zufällig und symptomlos) getestet. 
+Unter den *125* Getesteten wurden *2* Menschen positiv getestet. 
+Da die Anzahl der positiv getesteten ins Verhältnis mit allen *1000* Einwohnern gesetzt und
+anschließend für *100.000* Einwohner hochgerechnet wird, 
+ergibt sich ein Inzidenzwert von 
+<img src="https://render.githubusercontent.com/render/math?math=\frac{2}{1000} \cdot 100.000=200">.  
+Würde dieser Inzidenzwert nun dazu führen, dass im Nachbardorf mit gleich vielen 
+Einwohnern und positiven nicht nur *12,5%* sondern sogar *50%* der Menschen getestet werden,
+dann würde der Inzidenzwert auf 
+<img src="https://render.githubusercontent.com/render/math?math=\frac{8}{1000} \cdot 100.000=800">
+steigen. So kann sehr einfach gesehen werden, dass der Inzidenzwert nicht als alleiniges 
+Maß für die Stärke der Pandemie herangezogen werden kann.
+ 
+![AnzahlDerTests.png](AnzahlDerTests.png)
+
 Einige Mathematiker fordern, die Anzahl der positiven Tests ins Verhältnis mit allen Tests zu setzen. 
 Das würde bei der Testung von symptomlosen Menschen tatsächlich helfen, birgt aber die Gefahr 
 einer starken Überschätzung, wenn hauptsächlich Menschen mit Symptomen getestet werden. 
