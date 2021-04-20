@@ -49,10 +49,10 @@ Mitwirkenden können jedoch weitere Perspektiven mit aufgenommen werden.
 In diesem Kapitel werden einzelne Probleme aus dem statistischen Bereich kurz zusammengefasst. 
 Jedes Problem ist, sobald verfügbar, mit einer ausführlicheren Erklärung mit Quellenangaben verlinkt.
 
-### [1.1. Anzahl der Tests](docs/1/1/1_1_AnzahlDerTests.md)
+### [1.1. Anzahl der Tests](docs/1/1/AnzahlDerTests.md)
 Die Anzahl der durchgeführten Tests wird bei Entscheidungen über Maßnahmen nicht oder nur unzureichend berücksichtigt.
 
-### [1.2. Sensitivität und Spezifität](docs/1_2_SensitivitätUndSpezifität.md)
+### 1.2. Sensitivität und Spezifität
 Der Anteil der falsch-positiven Tests unter allen positiven Tests wird bei Entscheidungen über Maßnahmen unzureichend berücksichtigt.
 
 ### 1.3. Definition von "an oder mit CoViD-19" verstorben
