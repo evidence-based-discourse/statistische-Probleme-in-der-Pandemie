@@ -1,0 +1,9 @@
+# 2.1. Entscheidungen werden auf einen Aspekt reduziert
+
+#### Kritik: Die zu optimierende Zielfunktion für die zu beschließenden Entscheidungen berücksichtigen hauptsächlich CoViD-19. Leid aufgrund anderer physische und psychische Krankheiten, sowie weitere Faktoren werden ignoriert.
+
+Stellen wir uns die Analogie der Gewichtsreduktion vor. Dabei würden „Tunnelblick-Experten“ welche nur das eine Ziel verfolgen eine Bein-Amputation empfehlen. Diese sorgt für das einfache Erreichen des definierten Zieles, denn in der Zielfunktion braucht man neben der primären Gewichtsreduktion alle anderen Systemeinwirkungen und Faktoren nicht beachten. So wird dieser eine Zielwert, dem alle anderen Faktoren für Gesundheit kompromisslos untergeordnet ist, sehr einfach optimiert. 
+
+Natürlich ist diese Analogie sehr überspitzt, zeigt jedoch die reale Gefahr einer misslungenen Definition der Zielfunktion. Am Beispiel der einen Krankheit, welche seit Anfang 2020 medial verbreitet ist, sollte ebenfalls die Zielfunktion genauer betrachtet werden. 
+
+Im Jahr 2020 Betrug die Übersterblichkeit etwa 10%, wobei etwa 2/3 an oder mit Corona verstorben sind. Das bedeutet, dass die Übersterblichkeit auch ohne Betrachtung der an oder mit Corona Verstorbenen bei etwa 3-4% liegen würde. Dazu kommen mehrere langfristige gesundheitliche Probleme hinzu. Es wurden viele, nicht dringend nötige, Operationen und Vorsorgeuntersuchungen verschoben oder abgesagt. Das wird zu einer Übersterblichkeit in den Folgejahren führen. Ebenfalls belegen zahlreiche (nicht erwähnte) Studien über die riesigen positiven Effekte von sozialen Kontakten auf die Gesundheit. Insbesondere wird sich der reduzierte physische Kontakt auf das Krankheitsbild auswirken. Neben einer Zunahme der Selbstmordrate wird sich dieser Umstand auch auf weitere Neuerkrankungen auswirken.

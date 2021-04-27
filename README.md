@@ -66,7 +66,7 @@ Um die Gefährlichkeit von Krankheiten bewerten zu können ist ein Vergleich not
 ## 2. Modellbasierte Probleme
 
 ### 2.1. Entscheidungen werden auf einen Aspekt reduziert
-Die zu optimierende Zielfunktion für die zu beschließenden Entscheidungen berücksichtigen hauptsächlich CoViD-19, Leid aufgrund anderer physische und psychische Krankheiten, sowie weitere Faktoren werden ignoriert.
+Die zu optimierende Zielfunktion für die zu beschließenden Entscheidungen berücksichtigen hauptsächlich CoViD-19. Leid aufgrund anderer physische und psychische Krankheiten, sowie weitere Faktoren werden ignoriert.
 
 ### 2.2. Modelle werden nicht ausreichend empirisch validiert
 Auch Modelle welche aus mehreren an sich plausiblen Schritten bestehen besitzen eine hohe Anzahl an Freiheitsgraden und bergen somit die Gefahr, auf zukünftigen Daten nicht erfolgreich zu sein. Daher ist eine gute emprische Validierung unerlässlich.
