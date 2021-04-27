@@ -52,7 +52,7 @@ Jedes Problem ist, sobald verfügbar, mit einer ausführlicheren Erklärung mit 
 ### [1.1. Anzahl der Tests](docs/1/1/AnzahlDerTests.md)
 Die Anzahl der durchgeführten Tests wird bei Entscheidungen über Maßnahmen nicht oder nur unzureichend berücksichtigt.
 
-### 1.2. Sensitivität und Spezifität
+### [1.2. Sensitivität und Spezifität](docs/1/2/Sensitivität_und_Spezifität.ipynb)
 Der Anteil der falsch-positiven Tests unter allen positiven Tests wird bei Entscheidungen über Maßnahmen unzureichend berücksichtigt.
 
 ### 1.3. Definition von "an oder mit CoViD-19" verstorben

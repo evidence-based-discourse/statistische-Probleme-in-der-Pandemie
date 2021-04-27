@@ -1,4 +1,4 @@
-# Anzahl der Tests
+# 1.1 Anzahl der Tests
 
 #### Kritik: "Die Anzahl der durchgeführten Tests wird bei Entscheidungen über Maßnahmen nicht oder nur unzureichend berücksichtigt."
 
@@ -57,3 +57,14 @@ Diese Information hilft dabei, das Verhältnis der positiven Tests unter den Men
 auf CoViD-19 unter Berücksichtigung der Testgüte (Sensitivität und Spezifität) auf die Bevölkerung 
 hochzurechnen. Dies würde tatsächlich einen Wert liefern, welcher als Maß für die "Stärke" der 
 Pandemie herangezogen werden kann und auf Basis dessen Handlungsmaßnahmen beschlossen werden können.
+
+
+## Weiterführende Inhalte:
+
+ -  Video von **Prof. Dr. Christian Rieck** über die spieltheoretische Perspektive bei der Verwendung 
+ der Inzidenz als Referenzgröße für die Stärke der Maßnahmen. 
+ Er erklärt warum es ein Problem ist, dass auf den Inzidenzwert sehr einfach Einfluss genommen werden kann.  
+ [![rieck](http://i3.ytimg.com/vi/r6k8DvypmU4/hqdefault.jpg)](https://www.youtube.com/watch?v=r6k8DvypmU4&ab_channel=Prof.Dr.ChristianRieck) 
+ 
+ 
+[Nächster Punkt](../2/SensitivitätUndSpezifität.ipynb)
