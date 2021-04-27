@@ -1,0 +1,6 @@
+# 3.2. Informationen werden hauptsächlich isoliert vermittelt
+
+#### Kritik: Die fragmentierte und emotionale Informationsmitteilung erschwert die Bildung einer ganzheitlichen Meinung und der bewussten Beschäftigung mit Kritik
+
+ - Laut Martin Weichbold sind Informationen semantisch angereicherte Fakten und Wissen ist Information in einem Kontext gestellt. Also Informationen welche mit vernünftigen Größen verglichen werden. Ich persönlich habe den Eindruck, dass sich viele Menschen nicht mehr trauen, die Zahlen einer Krankheit in einen unterschiedlichen Kontext zu setzen, also zum Beispiel die Zahlen von Corona mit denen einer anderen Krankheit zu setzen.
+ - In den Medien hört man viel von einzelnen statistischen Kennzahlen, jedoch wenig von statistischen Werkzeugen. Das führt dazu, dass die Kennzahlen den Menschen mit einer Mindesterfahrung in einer Wissenschaft (Abitur/Matura, Bachelor oder mehr) besonders vertrauenswürdig werden und nicht mehr weiter hinterfragt werden. Ohne statistische Werkzeuge bleibt aber das demokratische Ziel von mündigen, hinterfragenden und kritisch-denkenden Menschen unerreicht. Zynisch könnte man diesen Punkt so zusammenfassen, dass Politik und Medien nur jene Informationsstücke kommunizieren, welche die Akzeptanz und das Gehorchen von Befehlen steigern.
