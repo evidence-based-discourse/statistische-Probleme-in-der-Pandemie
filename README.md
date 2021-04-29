@@ -55,8 +55,8 @@ Die Anzahl der durchgeführten Tests wird bei Entscheidungen über Maßnahmen ni
 ### [1.2. Sensitivität und Spezifität](docs/1/2/Sensitivität_und_Spezifität.ipynb)
 Der Anteil der falsch-positiven Tests unter allen positiven Tests wird bei Entscheidungen über Maßnahmen unzureichend berücksichtigt.
 
-### 1.3. Definition von "an oder mit CoViD-19" verstorben
-Eine eingetragene Begleitkrankheit von CoViD-19 (*U07* im ICD-Code) wird meist als hauptsächliche Todesursache angführt und führt somit zu einer Verzerrung der Statistik.
+### [1.3. Definition von "an oder mit CoViD-19" verstorben](docs/1/3/an_oder_mit_covid.md)
+Eine eingetragene Begleitkrankheit von CoViD-19 (*U07* im ICD-Code) wird meist als hauptsächliche Todesursache angeführt und führt somit zu einer Verzerrung der Statistik.
 
 ### 1.4. CoViD-19 wird selten mit anderen Krankheiten verglichen
 Um die Gefährlichkeit von Krankheiten bewerten zu können ist ein Vergleich notwendig.

@@ -67,4 +67,4 @@ Pandemie herangezogen werden kann und auf Basis dessen Handlungsmaßnahmen besch
  [![rieck](http://i3.ytimg.com/vi/r6k8DvypmU4/hqdefault.jpg)](https://www.youtube.com/watch?v=r6k8DvypmU4&ab_channel=Prof.Dr.ChristianRieck) 
  
  
-[Nächster Punkt](../2/SensitivitätUndSpezifität.ipynb)
+[Nächster Punkt: Sensitivität und Spezifität](../2/SensitivitätUndSpezifität.ipynb)
