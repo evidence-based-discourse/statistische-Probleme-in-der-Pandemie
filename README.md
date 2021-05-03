@@ -58,8 +58,8 @@ Der Anteil der falsch-positiven Tests unter allen positiven Tests wird bei Entsc
 ### [1.3. Definition von "an oder mit CoViD-19" verstorben](docs/1/3/an_oder_mit_covid.md)
 Eine eingetragene Begleitkrankheit von CoViD-19 (*U07* im ICD-Code) wird meist als hauptsächliche Todesursache angeführt und führt somit zu einer Verzerrung der Statistik.
 
-### 1.4. CoViD-19 wird selten mit anderen Krankheiten verglichen
-Um die Gefährlichkeit von Krankheiten bewerten zu können ist ein Vergleich notwendig.
+### [1.4. CoViD-19 wird unzureichend mit anderen Krankheiten verglichen](docs/1/4/Vergleich.md)
+Um die Gefährlichkeit von Krankheiten bewerten zu können, sind Vergleiche notwendig.
 
 ---
 

@@ -53,3 +53,5 @@ CoViD-19 ist häufig eine Begleitkrankheit und sollte auch als diese gezählt we
 [2]: https://www.statistik.at/web_de/presse/125475.html
 [3]: https://www.statistik.at/wcm/idc/groups/b/documents/webobj/mdaw/mtiz/~edisp/123855.png
 
+ 
+[Nächster Punkt: CoViD-19 wird unzureichend mit anderen Krankheiten verglichen](../4/Vergleich.md)
