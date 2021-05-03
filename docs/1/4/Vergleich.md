@@ -1,6 +1,6 @@
 # 1.4 CoViD-19 wird unzureichend mit anderen Krankheiten verglichen
 
-#### Kritik: Um die Gefährlichkeit von Krankheiten bewerten zu können, sind Vergleiche notwendig.
+#### Kritik: Um die Gefährlichkeit von Krankheiten bewerten zu können, sind Vergleiche notwendig. Im Schlimmsten Fall kann der Schaden von Maßnahmen auch den erhofften Nutzen überwiegen.
 
 
 Im Jahr 2020 starben in Österreich insgesamt 90.517 Menschen, davon 6.477 an oder mit CoViD (U07). 

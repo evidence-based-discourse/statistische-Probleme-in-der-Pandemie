@@ -59,7 +59,7 @@ Der Anteil der falsch-positiven Tests unter allen positiven Tests wird bei Entsc
 Eine eingetragene Begleitkrankheit von CoViD-19 (*U07* im ICD-Code) wird meist als hauptsächliche Todesursache angeführt und führt somit zu einer Verzerrung der Statistik.
 
 ### [1.4. CoViD-19 wird unzureichend mit anderen Krankheiten verglichen](docs/1/4/Vergleich.md)
-Um die Gefährlichkeit von Krankheiten bewerten zu können, sind Vergleiche notwendig.
+Um die Gefährlichkeit von Krankheiten bewerten zu können, sind Vergleiche notwendig. Im Schlimmsten Fall kann der Schaden von Maßnahmen auch den erhofften Nutzen überwiegen.
 
 ---
 
