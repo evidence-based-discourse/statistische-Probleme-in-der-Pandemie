@@ -59,14 +59,16 @@ Der Anteil der falsch-positiven Tests unter allen positiven Tests wird bei Entsc
 Eine eingetragene Begleitkrankheit von CoViD-19 (*U07* im ICD-Code) wird meist als hauptsächliche Todesursache angeführt und führt somit zu einer Verzerrung der Statistik.
 
 ### [1.4. CoViD-19 wird unzureichend mit anderen Krankheiten verglichen](docs/1/4/Vergleich.md)
-Um die Gefährlichkeit von Krankheiten bewerten zu können, sind Vergleiche notwendig. Im Schlimmsten Fall kann der Schaden von Maßnahmen auch den erhofften Nutzen überwiegen.
+Um die Gefährlichkeit von Krankheiten bewerten zu können, sind Vergleiche notwendig. 
+Im Schlimmsten Fall kann der Schaden von Maßnahmen auch den erhofften Nutzen überwiegen.
 
 ---
 
 ## 2. Modellbasierte Probleme
 
-### 2.1. Entscheidungen werden auf einen Aspekt reduziert
-Die zu optimierende Zielfunktion für die zu beschließenden Entscheidungen berücksichtigen hauptsächlich CoViD-19. Leid aufgrund anderer physische und psychische Krankheiten, sowie weitere Faktoren werden ignoriert.
+
+### [2.1. Das Gesundheitswesen wird auf nur ein Ziel reduziert](docs/2/1/Tunnelblick.md)
+Maßnahmen sind ein Eingriff in ein System. Wenn die Maßnahmen nur ein Ziel berücksichtigen und dieses kompromisslos minimieren, kann der gesamte Schaden höher sein als der Nutzen.
 
 ### 2.2. Modelle werden nicht ausreichend empirisch validiert
 Auch Modelle welche aus mehreren an sich plausiblen Schritten bestehen besitzen eine hohe Anzahl an Freiheitsgraden und bergen somit die Gefahr, auf zukünftigen Daten nicht erfolgreich zu sein. Daher ist eine gute emprische Validierung unerlässlich.

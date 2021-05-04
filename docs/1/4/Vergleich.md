@@ -67,3 +67,5 @@ damit die Infektionsdynamik stark beschränkt wird und nur mehr geringere Einsch
 [2]: https://www.who.int/bulletin/volumes/99/1/20-265892/en/
 [3]: https://swprs.org/studies-on-covid-19-lethality/#1-antibody-studies
 [4]: https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&time=2020-03-01..latest&pickerSort=asc&pickerMetric=location&hideControls=true&Metric=Confirmed+deaths&Interval=7-day+rolling+average&Relative+to+Population=true&Align+outbreaks=false&country=NCL~SWE~AUT~DEU~SWE~USA~Europe~CHE
+
+[Nächster Punkt: Das Gesundheitswesen wird auf nur ein Ziel reduziert](../../2/1/Tunnelblick.md)
