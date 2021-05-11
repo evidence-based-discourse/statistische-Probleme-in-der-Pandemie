@@ -70,7 +70,7 @@ Im Schlimmsten Fall kann der Schaden von Maßnahmen auch den erhofften Nutzen ü
 ### [2.1. Das Gesundheitswesen wird auf nur ein Ziel reduziert](docs/2/1/Tunnelblick.md)
 Maßnahmen sind ein Eingriff in ein System. Wenn die Maßnahmen nur ein Ziel berücksichtigen und dieses kompromisslos minimieren, kann der gesamte Schaden höher sein als der Nutzen.
 
-### 2.2. Modelle werden nicht ausreichend empirisch validiert
+### [2.2. Modelle werden nicht ausreichend validiert](docs/2/2/EmpirischeValidierung.md)
 Auch Modelle welche aus mehreren an sich plausiblen Schritten bestehen besitzen eine hohe Anzahl an Freiheitsgraden und bergen somit die Gefahr, auf zukünftigen Daten nicht erfolgreich zu sein. Daher ist eine gute emprische Validierung unerlässlich.
 
 ### 2.3. Prädiktive Modelle waren bisher kaum erfolgreich

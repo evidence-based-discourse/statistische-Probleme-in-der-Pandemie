@@ -61,3 +61,6 @@ Es ist daher unbedingt abzuschätzen, ob die derzeitigen und zukünftigen Maßna
  
 [1]: https://www.statistik.at/web_de/presse/125475.html 
 [2]: https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&time=2020-03-01..latest&pickerSort=asc&pickerMetric=location&hideControls=true&Metric=Confirmed+deaths&Interval=7-day+rolling+average&Relative+to+Population=true&Align+outbreaks=false&country=NCL~SWE~AUT~DEU~SWE~USA~Europe~CHE
+
+
+[Nächster Punkt: Modelle werden nicht ausreichend validiert](../2/EmpirischeValidierung.md)
