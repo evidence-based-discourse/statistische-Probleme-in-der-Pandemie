@@ -2,7 +2,7 @@
 
 Dieser Aufklärungsbogen verfolgt den Zweck, die impfende Person über wissenschaftliche Erkenntnisse und den Nutzen und die Risiken der Impfung aufzuklären. Zusätzlich wird eine Verpflichtung eingeholt, bei Verabreichung einer Impfstoff-charge mit hohen Nebenwirkungen und bei nachträglich als ungünstiges Nutzen/Risiko-Verhältnis dieses Eingriffes zu haften. Alle Quellen werden im nachfolgenden Literaturverzeichnis aufgelistet.
 
-**Mit meiner Unterschrift bestätige ich zu wissen:** 
+### Mit meiner Unterschrift bestätige ich zu wissen: 
 
 1. Dass Corona-Viren einem saisonalen Verlauf folgen[1][2][3]. 
 Die Wirksamkeit der zugelassenen COVID-19-Impfstoffe nehmen über die Monate so stark ab, 
@@ -12,22 +12,23 @@ einen geringen positiven Effekt bewirken.
 
 1. Dass die IFR (Infection Fatalacy Rate, Sterblichkeit bei einer Infektion mit SARS-CoV-2) 
 für Corona bei 0.27% über die gesamte Population6 und bei 0.01% bis 0.03% für die Altersgruppe 
-um 30 Jahre liegt7. Weiter ist mir bewusst, dass in Österreich nur 0.9% aller Personen, die 
+um 30 Jahre liegt [7]. Weiter ist mir bewusst, dass in Österreich nur 0.9% aller Personen, die 
 im Jahr 2020 mit oder an COVID-19 verstorben sind, jünger als 40 Jahre ist. 
 Für die Corona-Variante Omikron kann eine weitere Reduktion der Infektionssterblichkeit um 
-den Faktor 5 erwartet werden.8 
+den Faktor 5 erwartet werden.[8] 
 Damit kann bei Omikron-Variante für die Altersgruppe des Impfwilligen von einer 
 Infektionssterblichkeit von etwa 0.004% oder 1:25000 ausgegangen werden. 
 In diesen Abschätzungen werden teilweise auch Menschen mit einer oder mehreren starken 
 Vorerkrankungen berücksichtigt.
 Daher kann angenommen werden, dass die IFR für Menschen ohne bekannten Vorerkrankungen 
 noch geringer ist.
-Für eine Auflistung einer Vielzahl von Studien zur Bestimmung der IFR wird 9 an verwiesen. 
+Für eine Auflistung einer Vielzahl von Studien zur Bestimmung der IFR wird [9] an verwiesen. 
 Ich stimme der Schlussfolgerung zu, dass das das Argument des Selbstschutzes bei einer 
 Impfung für Personen unter 40 Jahre und ohne bekannten Vorerkrankungen nicht nur zweifelhaft, 
 sondern auch von der Evidenz widersprochen wird. 
 
-1. Dass ich weiß, dass die mRNA-Impfstoffe die Infektionskette nicht oder nicht signifikant beeinträchtigen.10 
+1. Dass ich weiß, dass die derzeitig verwendeten Impfstoffe die Ansteckungswahrscheinlichkeit 
+ mit SARS-CoV-2 nach einigen Monaten nicht mehr oder nur noch gering reduziert.[11] 
 
 1. Dass ich weiß, dass das die dominante Omikron-Variante seltener zu einer Aufnahme in eine Intensivstation führt. In den Wellen zuvor waren diese aufgrund begrenzter Beatmungs- und Herz-Lungen-Geräte sowie dem hohen Personalaufwand überlastet, obwohl die Anzahl der positiv Getesteten zu keinem Zeitpunkt 30% der verfügbaren Kapazität überschritt. Die Überlastung des gesamten Gesundheitswesens war über das Jahr 2021 dennoch niedriger als im Schnitt der Jahre vor 2020.
 
@@ -62,8 +63,29 @@ Gesundheitsminister beschlossen hat, der in seinem ersten Öffentlichkeitsauftri
 Funktion wehement auf der Aussage beharrte: „Die Impfung geht nicht ins Blut“.
 
 
- 
-## Literaturverzeichnis
+### Persönliche Nebenwirkungen 
+
+Der impfende Arzt bestätigt, sich über den gesundheitlichen Zustand des Impfwilligen vollständig 
+informiert und eine individuelle Nutzen-Risiko Abwägung durchgeführt zu haben. 
+Insbesondere wurde auf Vorerkrankungen, eventuelle Allergien und den Nebenwirkungen von bisherigen 
+und insbesondere COVID-19 Impfungen informiert.
+
+
+### Verzichtserklärungen
+
+1. Der impfende Arzt bestätigt ausdrücklich über alle genannten Punkten ausreichend informiert
+ zu haben und diesen zuzustimmen.
+
+1. Ergibt sich, dass eine oder mehrere Bestimmungen dieses Vertrages unwirksam bzw ungültig sind, 
+so bleibt die Gültigkeit der übrigen Bestimmungen unberührt. 
+
+1. Der impfende Arzt verzichtet auf eine Irrtumsanfechtung. 
+Zusätzlich verzichtet der impfende Arzt auf eine Haftungsanfechtung aufgrund einer Täuschung 
+oder der Darstellung verzerrter Tatsachen seitens der Regierung, Medien und Ärzteverbände. 
+
+
+
+### Literaturverzeichnis
 
 1.	Liu, X., Huang, J., Li, C., Zhao, Y. & Wang, D. The role of seasonality in the spread of COVID-19 pandemic. Environ. Res. 195, (2021).
 2.	Nichols, G. L. et al. Coronavirus seasonality, respiratory infections and weather. BMC Infect. Dis. 21, 1–15 (2021).
@@ -75,7 +97,7 @@ Funktion wehement auf der Aussage beharrte: „Die Impfung geht nicht ins Blut�
 8.	Nealon, J. & Cowling, B. J. Comment Omicron severity : milder but not mild. Lancet 6736, 55–56 (2022).
 9.	Research, S. P. No Title. Studies on Covid-19 Lethality https://swprs.org/studies-on-covid-19-lethality.
 10.	Eyre, D. W. et al. Effect of Covid-19 Vaccination on Transmission of Alpha and Delta Variants. N. Engl. J. Med. 1–13 (2022) doi:10.1056/NEJMoa2116597.
-
+11. Singanayagam, A. et al. Community transmission and viral load kinetics of the SARS-CoV-2 delta (B.1.617.2) variant in vaccinated and unvaccinated individuals in the UK: a prospective, longitudinal, cohort study. Lancet Infect. Dis. 3099, (2021).
 
 
 
