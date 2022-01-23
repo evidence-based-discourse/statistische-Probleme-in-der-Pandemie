@@ -1,0 +1,81 @@
+# Aufklärungsbogen
+
+Dieser Aufklärungsbogen verfolgt den Zweck, die impfende Person über wissenschaftliche Erkenntnisse und den Nutzen und die Risiken der Impfung aufzuklären. Zusätzlich wird eine Verpflichtung eingeholt, bei Verabreichung einer Impfstoff-charge mit hohen Nebenwirkungen und bei nachträglich als ungünstiges Nutzen/Risiko-Verhältnis dieses Eingriffes zu haften. Alle Quellen werden im nachfolgenden Literaturverzeichnis aufgelistet.
+
+**Mit meiner Unterschrift bestätige ich zu wissen:** 
+
+1. Dass Corona-Viren einem saisonalen Verlauf folgen[1][2][3]. 
+Die Wirksamkeit der zugelassenen COVID-19-Impfstoffe nehmen über die Monate so stark ab, 
+sodass die Wirksamkeit für den nächsten saisonalen Verlauf stark eingeschränkt ist45. 
+Eine Impfung mit einem solchen Impfstoff am Ende dieser Saison wird somit voraussichtlich nur 
+einen geringen positiven Effekt bewirken. 
+
+1. Dass die IFR (Infection Fatalacy Rate, Sterblichkeit bei einer Infektion mit SARS-CoV-2) 
+für Corona bei 0.27% über die gesamte Population6 und bei 0.01% bis 0.03% für die Altersgruppe 
+um 30 Jahre liegt7. Weiter ist mir bewusst, dass in Österreich nur 0.9% aller Personen, die 
+im Jahr 2020 mit oder an COVID-19 verstorben sind, jünger als 40 Jahre ist. 
+Für die Corona-Variante Omikron kann eine weitere Reduktion der Infektionssterblichkeit um 
+den Faktor 5 erwartet werden.8 
+Damit kann bei Omikron-Variante für die Altersgruppe des Impfwilligen von einer 
+Infektionssterblichkeit von etwa 0.004% oder 1:25000 ausgegangen werden. 
+In diesen Abschätzungen werden teilweise auch Menschen mit einer oder mehreren starken 
+Vorerkrankungen berücksichtigt.
+Daher kann angenommen werden, dass die IFR für Menschen ohne bekannten Vorerkrankungen 
+noch geringer ist.
+Für eine Auflistung einer Vielzahl von Studien zur Bestimmung der IFR wird 9 an verwiesen. 
+Ich stimme der Schlussfolgerung zu, dass das das Argument des Selbstschutzes bei einer 
+Impfung für Personen unter 40 Jahre und ohne bekannten Vorerkrankungen nicht nur zweifelhaft, 
+sondern auch von der Evidenz widersprochen wird. 
+
+1. Dass ich weiß, dass die mRNA-Impfstoffe die Infektionskette nicht oder nicht signifikant beeinträchtigen.10 
+
+1. Dass ich weiß, dass das die dominante Omikron-Variante seltener zu einer Aufnahme in eine Intensivstation führt. In den Wellen zuvor waren diese aufgrund begrenzter Beatmungs- und Herz-Lungen-Geräte sowie dem hohen Personalaufwand überlastet, obwohl die Anzahl der positiv Getesteten zu keinem Zeitpunkt 30% der verfügbaren Kapazität überschritt. Die Überlastung des gesamten Gesundheitswesens war über das Jahr 2021 dennoch niedriger als im Schnitt der Jahre vor 2020.
+
+1. Ich schließe aus den vorangegangenen Punkten, dass die COVID-Impfung keinen signifikanten Fremdschutz bietet (fehlende Reduktion der Infektionsketten und geringe ICU-Überlastung).
+
+1. Dass ich weiß, dass der Impfstoff für die Wuhan-Variante entwickelt wurde und gegen die derzeit dominante Variante Omikron nur eine Schutzwirkung von etwa ??? für einen fatalen Verlauf hat. Dieses Argument sollte für jede ordentliche Nutzen-Risiko-Abschätzung berücksichtigt werden.
+
+1. Ich kenne die Auswertungen der Europäischen Arzneimittelbehörde (EMA) zu Nebenwirkungen bei der Verabreichung von diesem Impfstoff. Mir ist bewusst, wie viele dieser Fälle von medizinischen Personal gemeldet wurden, wie viele Fälle von fatalen Verläufen geschehen wurde und habe diese Fälle mit häufig verwendeten medizinischen Produkten verglichen.
+
+1. Ich weiß, dass die Statistiken der VAERS sehr ähnliche Resultate liefert. Für beide Datenquellen liegt die Sterblichkeit nach einer Impfdosis von BionTech in der Größenordnung von etwa 1/10,000.
+
+1. Ich habe als Arzt selbstständig eine Nutzen-Kosten-Abschätzung für mehrere Personengruppen durchgeführt und bin für Menschen zwischen 20 und 30 Jahren ohne bekannten Vorerkrankungen zu einem unklaren Ergebnis gekommen. Ich weiß, dass auch die Literatur noch keinen signifikanten Nutzen einer Impfung für junge Menschen ohne bekannten Vorerkrankungen nachweisen konnte. Daher schließe ich, dass derzeit nicht mit dem Argument eines Selbstschutzes argumentiert werden darf.
+
+1. Aus den bisherigen Punkten folgt, dass für diese Impfung weder ein signifikanter Fremdschutz noch ein Selbstschutz spricht. 
+
+1. Aufgrund dessen, dass die Impfung die Infektionsketten nicht signifikant unterbricht, Übertragungen zwischen Menschen und Tieren möglich ist und eine rasche Mutation zu vielen Varianten führt, kann keine sterile Immunität ermöglicht werden (wie etwa bei Pocken). Daher ist auch das Argument der „Ausrottung“ von Corona unzulässig.
+
+1. Ich weiß, dass die Wahrscheinlichkeit für Nebenwirkungen stark von der Charge des Impfstoffes abhängt. Ich sicher dem Impfwilligen rechtsverbindlich zu, dass die verwendete Charge eine niedrigere Sterblichkeit als p=1/10,000 aufweist. Bei Nichteinhaltung dieses Grenzwertes verpflichte ich mich für einen einmaligen Schadensersatz von 10,000€. Bei bleibenden Schäden nach dieser Impfung muss dieser Betrag jährlich dem Impfwilligen ausbezahlt werden. Die entsprechenden Werte werden aus der Datenbank von VAERS bezogen. 
+
+1. Dass das gegenwärtige Narrativ bezüglich dem Krisenmanagement in der Pandemie diese nicht beenden kann. Die Impfung stellt einen zeitlich begrenzten Schutz gegenüber schweren Verläufen dar, beeinflusst jedoch nicht die Inzidenz und kann nicht zu einer Lösung führen.
+https://www.parlament.gv.at/PAKT/VHG/XXVII/SNME/SNME_162645/index.shtml 
+
+1. Dass sowohl die WHO als auch die europäische Arzneimittelbehörde (EMA) das regelmäßige 
+und nicht strategisch geplante Boostern als nicht zielführend betrachtet:  
+*„With […] evolution of the virus, a vaccination strategy based on repeated booster doses of the 
+original vaccine composition is unlikely to be appropriate or sustainable.“* - 
+[WHO](https://www.who.int/news/item/11-01-2022-interim-statement-on-covid-19-vaccines-in-the-context-of-the-circulation-of-the-omicron-sars-cov-2-variant-from-the-who-technical-advisory-group-on-covid-19-vaccine-composition)  
+*"While use of additional boosters can be part of contingency plans, repeated vaccinations within short intervals would not represent a sustainable long-term strategy,"* - [Reuters: Interview mit EMA's Head of Vaccines Strategy, Marco Cavaleri](https://www.reuters.com/business/healthcare-pharmaceuticals/eu-drug-regulator-says-more-data-needed-impact-omicron-vaccines-2022-01-11/)    
+
+1. Dass ich ein umstrittenes Gesetz befolge, welche ein nicht gewählter Kanzler und ein 
+Gesundheitsminister beschlossen hat, der in seinem ersten Öffentlichkeitsauftritt in dieser 
+Funktion wehement auf der Aussage beharrte: „Die Impfung geht nicht ins Blut“.
+
+
+ 
+## Literaturverzeichnis
+
+1.	Liu, X., Huang, J., Li, C., Zhao, Y. & Wang, D. The role of seasonality in the spread of COVID-19 pandemic. Environ. Res. 195, (2021).
+2.	Nichols, G. L. et al. Coronavirus seasonality, respiratory infections and weather. BMC Infect. Dis. 21, 1–15 (2021).
+3.	Chen, S. et al. Climate and the spread of COVID-19. Nat. Sci. reports 11, 9042 (2021).
+4.	Barbara A. Cohn and Piera M. Cirillo and Caitlin C. Murphy and Nickilou Y. Krigbaum and Arthur W. Wallace. SARS-CoV-2 vaccine protection and deaths among US veterans during 2021. Science (80-. ). (20021) doi:10.1126/science.abm0620.
+5.	Lin, D., Zeng, D. & Gilbert, P. B. Evaluating the Long-Term Efficacy of COVID-19 Vaccines. [preprint] 1–33 (2021).
+6.	Ioannidis, J. P. A. Infection fatality rate of COVID-19 inferred from seroprevalence data. Bull. World Health Organ. 99, 19-33F (2021).
+7.	Luo, G., Zhang, X., Zheng, H. & He, D. Infection fatality ratio and case fatality ratio of COVID-19. Int. J. Infect. Dis. 113, 43–46 (2021).
+8.	Nealon, J. & Cowling, B. J. Comment Omicron severity : milder but not mild. Lancet 6736, 55–56 (2022).
+9.	Research, S. P. No Title. Studies on Covid-19 Lethality https://swprs.org/studies-on-covid-19-lethality.
+10.	Eyre, D. W. et al. Effect of Covid-19 Vaccination on Transmission of Alpha and Delta Variants. N. Engl. J. Med. 1–13 (2022) doi:10.1056/NEJMoa2116597.
+
+
+
+
