@@ -10,7 +10,7 @@ sodass die Wirksamkeit für den nächsten saisonalen Verlauf stark eingeschränk
 Eine Impfung mit einem solchen Impfstoff am Ende dieser Saison wird somit voraussichtlich nur 
 einen geringen positiven Effekt bewirken. 
 
-1. Dass die IFR (Infection Fatalacy Rate, Sterblichkeit bei einer Infektion mit SARS-CoV-2) 
+2. Dass die IFR (Infection Fatalacy Rate, Sterblichkeit bei einer Infektion mit SARS-CoV-2) 
 für Corona bei 0.27% über die gesamte Population6 und bei 0.01% bis 0.03% für die Altersgruppe 
 um 30 Jahre liegt [7]. Weiter ist mir bewusst, dass in Österreich nur 0.9% aller Personen, die 
 im Jahr 2020 mit oder an COVID-19 verstorben sind, jünger als 40 Jahre ist. 
@@ -27,12 +27,27 @@ Ich stimme der Schlussfolgerung zu, dass das das Argument des Selbstschutzes bei
 Impfung für Personen unter 40 Jahre und ohne bekannten Vorerkrankungen nicht nur zweifelhaft, 
 sondern auch von der Evidenz widersprochen wird. 
 
-1. Dass ich weiß, dass die derzeitig verwendeten Impfstoffe die Ansteckungswahrscheinlichkeit 
- mit SARS-CoV-2 nach einigen Monaten nicht mehr oder nur noch gering reduziert.[11] 
+3. Dass ich weiß, dass trotz der Annahme der WHO von einem um 40% geringeren Übertragungsrisiko 
+durch eine Impfung[10], mehrere empirische Untersuchungen zeigen, 
+dass der Anteil an geimpften Personen für die Inzidenzen nur eine untergeordneter Rolle spielt.
+[11][12][13] 
 
-1. Dass ich weiß, dass das die dominante Omikron-Variante seltener zu einer Aufnahme in eine Intensivstation führt. In den Wellen zuvor waren diese aufgrund begrenzter Beatmungs- und Herz-Lungen-Geräte sowie dem hohen Personalaufwand überlastet, obwohl die Anzahl der positiv Getesteten zu keinem Zeitpunkt 30% der verfügbaren Kapazität überschritt. Die Überlastung des gesamten Gesundheitswesens war über das Jahr 2021 dennoch niedriger als im Schnitt der Jahre vor 2020.
 
-1. Ich schließe aus den vorangegangenen Punkten, dass die COVID-Impfung keinen signifikanten Fremdschutz bietet (fehlende Reduktion der Infektionsketten und geringe ICU-Überlastung).
+1. Dass ich weiß, dass das die dominante Omikron-Variante seltener zu einer Aufnahme in eine 
+Intensivstation führt. 
+In den bisherigen Wellen waren diese aufgrund begrenzter Beatmungs- und Herz-Lungen-Geräte 
+und insbesondere aufgrund des hohen Personalaufwands überlastet, 
+obwohl die Anzahl der positiv Getesteten zu keinem Zeitpunkt 30% der verfügbaren Kapazität 
+überschritt. 
+Die Überlastung des gesamten Gesundheitswesens war über das Jahr 2021 dennoch niedriger 
+als im Schnitt der Jahre vor 2020.
+Aufgrund des saisonalen Verlaufes von Corona und der zeitlich verzögerten Wirkung von Impfungen 
+kann davon ausgegangen werden, dass eine Impfung zu dieser Jahreszeit nicht mit dem Argument 
+des Systemschutzes argumentiert werden kann.
+
+1. Ich schließe aus den Punkten 1, 3 und 4, 
+dass die COVID-Impfung aufgrund der geringen Reduktion der Infektionsketten und verringerte 
+ICU-Belastung durch die Omikron-Variante keinen signifikanten Fremdschutz bietet.
 
 1. Dass ich weiß, dass der Impfstoff für die Wuhan-Variante entwickelt wurde und gegen die derzeit dominante Variante Omikron nur eine Schutzwirkung von etwa ??? für einen fatalen Verlauf hat. Dieses Argument sollte für jede ordentliche Nutzen-Risiko-Abschätzung berücksichtigt werden.
 
@@ -65,10 +80,13 @@ Funktion wehement auf der Aussage beharrte: „Die Impfung geht nicht ins Blut�
 
 ### Persönliche Nebenwirkungen 
 
-Der impfende Arzt bestätigt, sich über den gesundheitlichen Zustand des Impfwilligen vollständig 
-informiert und eine individuelle Nutzen-Risiko Abwägung durchgeführt zu haben. 
+Der impfende Arzt bestätigt, sich über den gesundheitlichen Zustand des Impfwilligen ausreichend 
+informiert und eine individuelle Nutzen-Risiko Abwägung für die Durchführung der vorliegenden 
+Impfung durchgeführt zu haben. 
 Insbesondere wurde auf Vorerkrankungen, eventuelle Allergien und den Nebenwirkungen von bisherigen 
 und insbesondere COVID-19 Impfungen informiert.
+Der impfende Arzt bestätigt ausdrücklich, dass die Durchführung einer Impfung auf individueller 
+oder gesamtgesellschaftlichen Ebene der Nutzen klar dem Risiko überwiegt.
 
 
 ### Verzichtserklärungen
@@ -96,8 +114,8 @@ oder der Darstellung verzerrter Tatsachen seitens der Regierung, Medien und Ärz
 7.	Luo, G., Zhang, X., Zheng, H. & He, D. Infection fatality ratio and case fatality ratio of COVID-19. Int. J. Infect. Dis. 113, 43–46 (2021).
 8.	Nealon, J. & Cowling, B. J. Comment Omicron severity : milder but not mild. Lancet 6736, 55–56 (2022).
 9.	Research, S. P. No Title. Studies on Covid-19 Lethality https://swprs.org/studies-on-covid-19-lethality.
-10.	Eyre, D. W. et al. Effect of Covid-19 Vaccination on Transmission of Alpha and Delta Variants. N. Engl. J. Med. 1–13 (2022) doi:10.1056/NEJMoa2116597.
-11. Singanayagam, A. et al. Community transmission and viral load kinetics of the SARS-CoV-2 delta (B.1.617.2) variant in vaccinated and unvaccinated individuals in the UK: a prospective, longitudinal, cohort study. Lancet Infect. Dis. 3099, (2021).
-
-
+10.	Guadrian. No Title. Vaccines reduce Covid transmission by 40%: WHO.
+11.	Singanayagam, A. et al. Community transmission and viral load kinetics of the SARS-CoV-2 delta (B.1.617.2) variant in vaccinated and unvaccinated individuals in the UK: a prospective, longitudinal, cohort study. Lancet Infect. Dis. 3099, (2021).
+12.	Kampf, G. The epidemiological relevance of the COVID-19-vaccinated population is increasing. Lancet Reg. Heal. - Eur. 11, 10–11 (2021).
+13.	Eyre, D. W. et al. Effect of Covid-19 Vaccination on Transmission of Alpha and Delta Variants. N. Engl. J. Med. 1–13 (2022) doi:10.1056/NEJMoa2116597.
 
