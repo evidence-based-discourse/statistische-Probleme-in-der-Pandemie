@@ -32,7 +32,6 @@ durch eine Impfung[10], mehrere empirische Untersuchungen zeigen,
 dass der Anteil an geimpften Personen für die Inzidenzen nur eine untergeordneter Rolle spielt.
 [11][12][13] 
 
-
 1. Dass ich weiß, dass das die dominante Omikron-Variante seltener zu einer Aufnahme in eine 
 Intensivstation führt. 
 In den bisherigen Wellen waren diese aufgrund begrenzter Beatmungs- und Herz-Lungen-Geräte 
@@ -89,7 +88,13 @@ Der impfende Arzt bestätigt ausdrücklich, dass die Durchführung einer Impfung
 oder gesamtgesellschaftlichen Ebene der Nutzen klar dem Risiko überwiegt.
 
 
-### Verzichtserklärungen
+### Erklärungen
+
+1. Der Impfwillige bestätigt hiermit ausdrücklich, dieser Impfung nicht freiwillig zuzustimmen. 
+Weiters wurde dem zusätzlichen Dokument "Aufklärungs- und Dokumentationsbogen Corona-Schutzimpfung, 
+COVID-19 mRNA-Impfstoffe, Version 10, Stand: 21.10.2021" des Bundesministeriums für Soziales, Gesundheit, Pflege und Konsumentenschutz 
+ebenfalls nicht freiwillig zugestimmt, sondern aufgrund einer politischen, wirtschaftlichen und 
+sozialen Nötigung zur Erlangung des Impfstatus. 
 
 1. Der impfende Arzt bestätigt ausdrücklich über alle genannten Punkten ausreichend informiert
  zu haben und diesen zuzustimmen.
