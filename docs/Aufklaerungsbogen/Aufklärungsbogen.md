@@ -147,6 +147,13 @@ oder der Darstellung verzerrter Tatsachen seitens der Regierung, Medien und Ärz
 ___
 ### Unterschriften
  
+Ort und Datum: 
+
+<br>
+_________________________________ 
+<br>
+<br>
+ 
 Der/die impfende Arzt/Ärztin: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Der/die Impfwillige:        
 
@@ -154,7 +161,6 @@ Der/die Impfwillige:
 <br>
 ____________________________  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ____________________________
-<br>
 <br>
 <br>
 

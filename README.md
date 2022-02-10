@@ -4,6 +4,11 @@ Das Ziel dieses Projektes ist ein öffentlicher und transparenter Diskurs zu sta
 Unsere Grundannahme ist, dass Maßnahmen dem gesamtgesellschaftlichen Ziel der Minimierung 
 von Leid dienen müssen.
 
+[Hier](docs/Aufklaerungsbogen/Aufklärungsbogen.md) geht es zum Aufklärungsbogen für 
+die COVID-19-Impfung. 
+Diese ist an die impfende Person gerichtet und die die Verantwortung für den Eingriff übernimmt.
+
+
 ## Motivation
 
 Es ist nicht die Absicht dieser Seite die Maßnahmen gegen die Ausbreitung von CoViD-19 als Ganzes verwerfen zu wollen. 
