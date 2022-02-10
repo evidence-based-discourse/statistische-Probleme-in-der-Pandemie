@@ -48,22 +48,58 @@ des Systemschutzes argumentiert werden kann.
 dass die COVID-Impfung aufgrund der geringen Reduktion der Infektionsketten und verringerte 
 ICU-Belastung durch die Omikron-Variante keinen signifikanten Fremdschutz bietet.
 
-1. Dass ich weiß, dass der Impfstoff für die Wuhan-Variante entwickelt wurde und gegen die derzeit dominante Variante Omikron nur eine Schutzwirkung von etwa ??? für einen fatalen Verlauf hat. Dieses Argument sollte für jede ordentliche Nutzen-Risiko-Abschätzung berücksichtigt werden.
+1. Dass ich weiß, dass der Impfstoff für die Wuhan-Variante entwickelt wurde und gegen die 
+derzeit dominante Variante Omikron eine deutlich reduzierte Schutzwirkung für eine Infektion, 
+einen schweren Verlauf, eine Notwendigkeit einer Intensivstation sowie für einen fatalen Verlauf hat. 
+Dieses Argument muss für jede ordentliche Nutzen-Risiko-Abschätzung des speziellen Impfstoffes 
+berücksichtigt werden.
 
-1. Ich kenne die Auswertungen der Europäischen Arzneimittelbehörde (EMA) zu Nebenwirkungen bei der Verabreichung von diesem Impfstoff. Mir ist bewusst, wie viele dieser Fälle von medizinischen Personal gemeldet wurden, wie viele Fälle von fatalen Verläufen geschehen wurde und habe diese Fälle mit häufig verwendeten medizinischen Produkten verglichen.
+1. Ich kenne die Auswertungen der Europäischen Arzneimittelbehörde (EMA) zu Nebenwirkungen 
+bei der Verabreichung von diesem Impfstoff. 
+Mir ist bewusst, dass mehr als ein Drittel der bereits über 700.000 ("Siebenhundertaussend") 
+gemeldeten Fällen von Nebenwirkungen von medizinischem Personal gemeldet wurden.
+Zusätzlich habe ich die Anzahl von fatalen Verläufen betrachtet und habe diese Anzahl mit jener 
+von häufig verwendeten medizinischen Produkten verglichen.
 
-1. Ich weiß, dass die Statistiken der VAERS sehr ähnliche Resultate liefert. Für beide Datenquellen liegt die Sterblichkeit nach einer Impfdosis von BionTech in der Größenordnung von etwa 1/10,000.
+1. Ich weiß, dass die Statistiken der VAERS (Vaccine Adverse Event Reporting System) 
+für die USA sehr ähnliche Resultate liefert. 
+Für beide Datenquellen liegt die Sterblichkeit nach einer Impfdosis von BionTech in der 
+Größenordnung von etwa 1/10.000.
 
-1. Ich habe als Arzt selbstständig eine Nutzen-Kosten-Abschätzung für mehrere Personengruppen durchgeführt und bin für Menschen zwischen 20 und 30 Jahren ohne bekannten Vorerkrankungen zu einem unklaren Ergebnis gekommen. Ich weiß, dass auch die Literatur noch keinen signifikanten Nutzen einer Impfung für junge Menschen ohne bekannten Vorerkrankungen nachweisen konnte. Daher schließe ich, dass derzeit nicht mit dem Argument eines Selbstschutzes argumentiert werden darf.
+1. Ich habe als Arzt selbstständig und mit Berücksichtigung von eventuell eingeschränkter 
+Unbefangenheit (wie etwa bei Werbematerial der Pharmaindustrie, 
+Empfehlungen von Personen mit direkten oder indirekten Abhängigkeiten zur Pharmaindustrie) 
+eine Nutzen-Kosten-Abschätzung für die impfwillige Person durchgeführt.
 
-1. Aus den bisherigen Punkten folgt, dass für diese Impfung weder ein signifikanter Fremdschutz noch ein Selbstschutz spricht. 
+1. Ich weiß, dass auch die Literatur noch keinen signifikanten individuellen Nutzen einer 
+Impfung für junge Menschen ohne bekannten Vorerkrankungen nachweisen konnte. 
+Daher schließe ich, dass das Argument eines Selbstschutzes nicht evidenzbasiert ist. 
 
-1. Aufgrund dessen, dass die Impfung die Infektionsketten nicht signifikant unterbricht, Übertragungen zwischen Menschen und Tieren möglich ist und eine rasche Mutation zu vielen Varianten führt, kann keine sterile Immunität ermöglicht werden (wie etwa bei Pocken). Daher ist auch das Argument der „Ausrottung“ von Corona unzulässig.
+1. Aus den bisherigen Punkten folgt, dass für diese Impfung weder ein signifikanter Fremdschutz 
+noch ein Selbstschutz spricht. 
 
-1. Ich weiß, dass die Wahrscheinlichkeit für Nebenwirkungen stark von der Charge des Impfstoffes abhängt. Ich sicher dem Impfwilligen rechtsverbindlich zu, dass die verwendete Charge eine niedrigere Sterblichkeit als p=1/10,000 aufweist. Bei Nichteinhaltung dieses Grenzwertes verpflichte ich mich für einen einmaligen Schadensersatz von 10,000€. Bei bleibenden Schäden nach dieser Impfung muss dieser Betrag jährlich dem Impfwilligen ausbezahlt werden. Die entsprechenden Werte werden aus der Datenbank von VAERS bezogen. 
+1. Aufgrund dessen, dass die Impfung die Infektionsketten nicht signifikant unterbricht, 
+Übertragungen zwischen Menschen und Tieren möglich ist und eine rasche Mutation zu vielen 
+Varianten führt, kann keine sterile Immunität ermöglicht werden. 
+Daher ist auch das Argument einer „Ausrottung“ von Corona unzulässig.
 
-1. Dass das gegenwärtige Narrativ bezüglich dem Krisenmanagement in der Pandemie diese nicht beenden kann. Die Impfung stellt einen zeitlich begrenzten Schutz gegenüber schweren Verläufen dar, beeinflusst jedoch nicht die Inzidenz und kann nicht zu einer Lösung führen.
-https://www.parlament.gv.at/PAKT/VHG/XXVII/SNME/SNME_162645/index.shtml 
+1. Ich weiß, dass die Wahrscheinlichkeit für Nebenwirkungen stark von der Charge des 
+Impfstoffes abhängt. 
+Ich sichere dem Impfwilligen rechtsverbindlich zu, dass die verwendete Charge eine niedrigere 
+Sterblichkeit als p=1/10,000 aufweist. 
+Bei Nichteinhaltung dieses Grenzwertes verpflichte ich mich für einen einmaligen Schadensersatz 
+von 10,000€. Bei bleibenden Schäden nach dieser Impfung muss dieser Betrag jährlich dem 
+Impfwilligen ausbezahlt werden. 
+Die entsprechenden Werte werden aus der Datenbank von VAERS bezogen, welche auf der Webseite 
+https://howbadismybatch.com/ nach Impfcharge indiziert sind.
+
+1. Ich weiß, dass das gegenwärtige Narrativ des Krisenmanagements die Pandemie nicht 
+beenden kann. 
+Die Impfung stellt einen zeitlich begrenzten Schutz gegenüber schweren Verläufen dar, 
+beeinflusst jedoch nicht die Inzidenz und kann nicht zu einer Lösung führen. 
+Ich bin mir der Gefahr bewusst, dass aufgrund des zeitlich begrenzten Schutzes der Impfung 
+und dem Ignorieren von nachhaltigen Lösungen die Gefahr einer periodischen Impfung mit kurzem 
+und eventuell immer kürzer werdenden Intervall droht.  
 
 1. Dass sowohl die WHO als auch die europäische Arzneimittelbehörde (EMA) das regelmäßige 
 und nicht strategisch geplante Boostern als nicht zielführend betrachtet:  
@@ -73,8 +109,8 @@ original vaccine composition is unlikely to be appropriate or sustainable.“* -
 *"While use of additional boosters can be part of contingency plans, repeated vaccinations within short intervals would not represent a sustainable long-term strategy,"* - [Reuters: Interview mit EMA's Head of Vaccines Strategy, Marco Cavaleri](https://www.reuters.com/business/healthcare-pharmaceuticals/eu-drug-regulator-says-more-data-needed-impact-omicron-vaccines-2022-01-11/)    
 
 1. Dass ich ein umstrittenes Gesetz befolge, welche ein nicht gewählter Kanzler und ein 
-Gesundheitsminister beschlossen hat, der in seinem ersten Öffentlichkeitsauftritt in dieser 
-Funktion wehement auf der Aussage beharrte: „Die Impfung geht nicht ins Blut“.
+Gesundheitsminister beschlossen hat, der in einer seiner ersten Öffentlichkeitsauftritte 
+in dieser Funktion wehement auf der Aussage beharrte: „Die Impfung geht nicht ins Blut“.[14]
 
 
 ### Persönliche Nebenwirkungen 
@@ -93,8 +129,8 @@ oder gesamtgesellschaftlichen Ebene der Nutzen klar dem Risiko überwiegt.
 1. Der Impfwillige bestätigt hiermit ausdrücklich, dieser Impfung nicht freiwillig zuzustimmen. 
 Weiters wurde dem zusätzlichen Dokument "Aufklärungs- und Dokumentationsbogen Corona-Schutzimpfung, 
 COVID-19 mRNA-Impfstoffe, Version 10, Stand: 21.10.2021" des Bundesministeriums für Soziales, Gesundheit, Pflege und Konsumentenschutz 
-ebenfalls nicht freiwillig zugestimmt, sondern aufgrund einer politischen, wirtschaftlichen und 
-sozialen Nötigung zur Erlangung des Impfstatus. 
+ebenfalls nicht freiwillig zugestimmt, sondern nur aufgrund einer politischen, wirtschaftlichen und 
+sozialen Nötigung. 
 
 1. Der impfende Arzt bestätigt ausdrücklich über alle genannten Punkten ausreichend informiert
  zu haben und diesen zuzustimmen.
@@ -105,6 +141,24 @@ so bleibt die Gültigkeit der übrigen Bestimmungen unberührt.
 1. Der impfende Arzt verzichtet auf eine Irrtumsanfechtung. 
 Zusätzlich verzichtet der impfende Arzt auf eine Haftungsanfechtung aufgrund einer Täuschung 
 oder der Darstellung verzerrter Tatsachen seitens der Regierung, Medien und Ärzteverbände. 
+
+1. Er impfende Arzt übernimmt jede Verantwortung für den medizinischen Eingriff.
+
+___
+### Unterschriften
+ 
+Der/die impfende Arzt/Ärztin: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Der/die Impfwillige:        
+
+<br>
+<br>
+____________________________  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+____________________________
+<br>
+<br>
+<br>
+
+___
 
 
 
@@ -123,4 +177,5 @@ oder der Darstellung verzerrter Tatsachen seitens der Regierung, Medien und Ärz
 11.	Singanayagam, A. et al. Community transmission and viral load kinetics of the SARS-CoV-2 delta (B.1.617.2) variant in vaccinated and unvaccinated individuals in the UK: a prospective, longitudinal, cohort study. Lancet Infect. Dis. 3099, (2021).
 12.	Kampf, G. The epidemiological relevance of the COVID-19-vaccinated population is increasing. Lancet Reg. Heal. - Eur. 11, 10–11 (2021).
 13.	Eyre, D. W. et al. Effect of Covid-19 Vaccination on Transmission of Alpha and Delta Variants. N. Engl. J. Med. 1–13 (2022) doi:10.1056/NEJMoa2116597.
+13.	W. Mückstein, M. Fleischhacker. Streit um den Impfpass: Droht jetzt die totale Kontrolle? Task im Hangar-7 Servus-TV. 04.03.2021
 
