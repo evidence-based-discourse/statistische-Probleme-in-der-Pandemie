@@ -5,8 +5,9 @@ Unsere Grundannahme ist, dass Maßnahmen dem gesamtgesellschaftlichen Ziel der M
 von Leid dienen müssen.
 
 [Hier](docs/Aufklaerungsbogen/Aufklärungsbogen.md) geht es zum Aufklärungsbogen für 
-die COVID-19-Impfung. 
-Diese ist an die impfende Person gerichtet und die die Verantwortung für den Eingriff übernimmt.
+die CoViD-19-Impfung. 
+Diese ist an die impfende Person gerichtet, die mit diesem Bogen aufgeklärt wird 
+und schriftlich einem überwiegenden Nutzen dieses Eingriffes zusichert.
 
 
 ## Motivation

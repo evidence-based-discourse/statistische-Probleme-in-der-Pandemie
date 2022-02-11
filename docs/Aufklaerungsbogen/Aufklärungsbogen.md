@@ -6,119 +6,131 @@ Dieser Aufklärungsbogen verfolgt den Zweck, die impfende Person über wissensch
 
 1. Dass Corona-Viren einem saisonalen Verlauf folgen[1][2][3]. 
 Die Wirksamkeit der zugelassenen COVID-19-Impfstoffe nehmen über die Monate so stark ab, 
-sodass die Wirksamkeit für den nächsten saisonalen Verlauf stark eingeschränkt ist45. 
+sodass die Wirksamkeit für den nächsten saisonalen Verlauf stark eingeschränkt ist[4][5]. 
 Eine Impfung mit einem solchen Impfstoff am Ende dieser Saison wird somit voraussichtlich nur 
 einen geringen positiven Effekt bewirken. 
 
-2. Dass die IFR (Infection Fatalacy Rate, Sterblichkeit bei einer Infektion mit SARS-CoV-2) 
-für Corona bei 0.27% über die gesamte Population6 und bei 0.01% bis 0.03% für die Altersgruppe 
-um 30 Jahre liegt [7]. Weiter ist mir bewusst, dass in Österreich nur 0.9% aller Personen, die 
-im Jahr 2020 mit oder an COVID-19 verstorben sind, jünger als 40 Jahre ist. 
-Für die Corona-Variante Omikron kann eine weitere Reduktion der Infektionssterblichkeit um 
-den Faktor 5 erwartet werden.[8] 
-Damit kann bei Omikron-Variante für die Altersgruppe des Impfwilligen von einer 
-Infektionssterblichkeit von etwa 0.004% oder 1:25000 ausgegangen werden. 
-In diesen Abschätzungen werden teilweise auch Menschen mit einer oder mehreren starken 
-Vorerkrankungen berücksichtigt.
-Daher kann angenommen werden, dass die IFR für Menschen ohne bekannten Vorerkrankungen 
-noch geringer ist.
-Für eine Auflistung einer Vielzahl von Studien zur Bestimmung der IFR wird [9] an verwiesen. 
-Ich stimme der Schlussfolgerung zu, dass das das Argument des Selbstschutzes bei einer 
-Impfung für Personen unter 40 Jahre und ohne bekannten Vorerkrankungen nicht nur zweifelhaft, 
-sondern auch von der Evidenz widersprochen wird. 
-
-3. Dass ich weiß, dass trotz der Annahme der WHO von einem um 40% geringeren Übertragungsrisiko 
+2. Dass ich weiß, dass trotz der Annahme der WHO von einem um 40% geringeren Übertragungsrisiko 
 durch eine Impfung[10], mehrere empirische Untersuchungen zeigen, 
 dass der Anteil an geimpften Personen für die Inzidenzen nur eine untergeordneter Rolle spielt.
 [11][12][13] 
 
-1. Dass ich weiß, dass das die dominante Omikron-Variante seltener zu einer Aufnahme in eine 
+3. Dass ich weiß, dass die dominante Omikron-Variante seltener zu einer Aufnahme in eine 
 Intensivstation führt. 
 In den bisherigen Wellen waren diese aufgrund begrenzter Beatmungs- und Herz-Lungen-Geräte 
 und insbesondere aufgrund des hohen Personalaufwands überlastet, 
-obwohl die Anzahl der positiv Getesteten zu keinem Zeitpunkt 30% der verfügbaren Kapazität 
-überschritt. 
-Die Überlastung des gesamten Gesundheitswesens war über das Jahr 2021 dennoch niedriger 
-als im Schnitt der Jahre vor 2020.
+obwohl die Anzahl der positiv Getesteten dort in Österreich zu keinem Zeitpunkt 35% der verfügbaren Kapazität 
+überschritt [14] (vgl. mit der Anzahl von 2118 Betten auf der Intensivstation).
 Aufgrund des saisonalen Verlaufes von Corona und der zeitlich verzögerten Wirkung von Impfungen 
 kann davon ausgegangen werden, dass eine Impfung zu dieser Jahreszeit nicht mit dem Argument 
 des Systemschutzes argumentiert werden kann.
 
-1. Ich schließe aus den Punkten 1, 3 und 4, 
+4. Ich schließe aus den Punkten 1, 2 und 3, 
 dass die COVID-Impfung aufgrund der geringen Reduktion der Infektionsketten und verringerte 
 ICU-Belastung durch die Omikron-Variante keinen signifikanten Fremdschutz bietet.
 
-1. Dass ich weiß, dass der Impfstoff für die Wuhan-Variante entwickelt wurde und gegen die 
+5. Dass die IFR (Infection Fatalacy Rate, Sterblichkeit bei einer Infektion mit SARS-CoV-2) 
+für Corona bei 0,27% über die gesamte Population[6] und bei 0,01% bis 0,03% für die Altersgruppe 
+um 30 Jahre liegt [7]. Weiter ist mir bewusst, dass in Österreich nur 0,9% aller Personen, die 
+im Jahr 2020 mit oder an COVID-19 verstorben sind, jünger als 40 Jahre ist. 
+Für die Corona-Variante Omikron kann eine weitere Reduktion der Infektionssterblichkeit um 
+den Faktor 5 erwartet werden.[8] 
+Damit kann bei der Omikron-Variante für die Altersgruppe des Impfwilligen von einer 
+Infektionssterblichkeit von etwa 0,004% oder 1:25000 ausgegangen werden. 
+In diesen Abschätzungen werden teilweise auch Menschen mit einer oder mehreren starken 
+Vorerkrankungen berücksichtigt.
+Daher kann angenommen werden, dass die IFR für Menschen ohne bekannten Vorerkrankungen 
+noch geringer ist.
+Für eine Auflistung einer Vielzahl von Studien zur Bestimmung der IFR wird an [9] verwiesen. 
+Ich stimme der Schlussfolgerung zu, dass das Argument des Selbstschutzes bei einer 
+Impfung für Personen unter 40 Jahre und ohne bekannten Vorerkrankungen nicht nur zweifelhaft, 
+sondern auch von der Evidenz widersprochen wird. 
+
+6. Dass ich weiß, dass der Impfstoff für die Wuhan-Variante entwickelt wurde und gegen die 
 derzeit dominante Variante Omikron eine deutlich reduzierte Schutzwirkung für eine Infektion, 
-einen schweren Verlauf, eine Notwendigkeit einer Intensivstation sowie für einen fatalen Verlauf hat. 
+einen schweren Verlauf, der Notwendigkeit einer intensivmedizinischen Einrichtung 
+sowie für einen fatalen Verlauf hat. 
 Dieses Argument muss für jede ordentliche Nutzen-Risiko-Abschätzung des speziellen Impfstoffes 
 berücksichtigt werden.
 
-1. Ich kenne die Auswertungen der Europäischen Arzneimittelbehörde (EMA) zu Nebenwirkungen 
+7. Ich kenne die Auswertungen der Europäischen Arzneimittelbehörde (EMA) zu Nebenwirkungen 
 bei der Verabreichung von diesem Impfstoff. 
-Mir ist bewusst, dass mehr als ein Drittel der bereits über 700.000 ("Siebenhundertaussend") 
-gemeldeten Fällen von Nebenwirkungen von medizinischem Personal gemeldet wurden.
+Mir ist bewusst, dass mehr als ein Drittel der bereits über 700000 ("Siebenhundertaussend") 
+gemeldeten Fällen von Nebenwirkungen von medizinischem Personal gemeldet wurden und 
+somit die Aussage "Jede/r kann Nebenwirkungen melden" ein Scheinargument ist.
 Zusätzlich habe ich die Anzahl von fatalen Verläufen betrachtet und habe diese Anzahl mit jener 
 von häufig verwendeten medizinischen Produkten verglichen.
 
-1. Ich weiß, dass die Statistiken der VAERS (Vaccine Adverse Event Reporting System) 
+8. Ich weiß, dass die Statistiken der VAERS (Vaccine Adverse Event Reporting System) 
 für die USA sehr ähnliche Resultate liefert. 
 Für beide Datenquellen liegt die Sterblichkeit nach einer Impfdosis von BionTech in der 
-Größenordnung von etwa 1/10.000.
+Größenordnung von etwa 1/10000 bis 1/50000.
+Damit ist die relative Häufigkeit von fatalen Verläufen nach einer Impfung in der selben  
+Größenordnung wie die nach einer Infektion mit der Omikron-Variante von etwa 30-jährigen 
+Menschen ohne vorherigen Impfschutz. 
 
-1. Ich habe als Arzt selbstständig und mit Berücksichtigung von eventuell eingeschränkter 
-Unbefangenheit (wie etwa bei Werbematerial der Pharmaindustrie, 
-Empfehlungen von Personen mit direkten oder indirekten Abhängigkeiten zur Pharmaindustrie) 
-eine Nutzen-Kosten-Abschätzung für die impfwillige Person durchgeführt.
-
-1. Ich weiß, dass auch die Literatur noch keinen signifikanten individuellen Nutzen einer 
-Impfung für junge Menschen ohne bekannten Vorerkrankungen nachweisen konnte. 
+9. Ich weiß, dass auch die Literatur Schwierigkeiten hat, 
+einen signifikanten individuellen Mehrwert einer Impfung 
+für Menschen unter 40 Jahren ohne bekannten Vorerkrankungen nachzuweisen. 
+Für den Fall, dass eine solche Studie bekannt ist, verweise ich auf diese. 
 Daher schließe ich, dass das Argument eines Selbstschutzes nicht evidenzbasiert ist. 
 
-1. Aus den bisherigen Punkten folgt, dass für diese Impfung weder ein signifikanter Fremdschutz 
-noch ein Selbstschutz spricht. 
-
-1. Aufgrund dessen, dass die Impfung die Infektionsketten nicht signifikant unterbricht, 
+10. Aufgrund dessen, dass die Impfung die Infektionsketten nicht signifikant unterbricht, 
 Übertragungen zwischen Menschen und Tieren möglich ist und eine rasche Mutation zu vielen 
-Varianten führt, kann keine sterile Immunität ermöglicht werden. 
+Varianten führt, kann durch die Impfung keine sterile Immunität ermöglicht werden. 
 Daher ist auch das Argument einer „Ausrottung“ von Corona unzulässig.
 
-1. Ich weiß, dass die Wahrscheinlichkeit für Nebenwirkungen stark von der Charge des 
-Impfstoffes abhängt. 
-Ich sichere dem Impfwilligen rechtsverbindlich zu, dass die verwendete Charge eine niedrigere 
-Sterblichkeit als p=1/10,000 aufweist. 
-Bei Nichteinhaltung dieses Grenzwertes verpflichte ich mich für einen einmaligen Schadensersatz 
-von 10,000€. Bei bleibenden Schäden nach dieser Impfung muss dieser Betrag jährlich dem 
-Impfwilligen ausbezahlt werden. 
-Die entsprechenden Werte werden aus der Datenbank von VAERS bezogen, welche auf der Webseite 
-https://howbadismybatch.com/ nach Impfcharge indiziert sind.
+11. Aus den bisherigen Punkten folgt, dass für diese Impfung weder ein signifikanter Fremdschutz 
+noch ein Selbstschutz spricht. 
 
-1. Ich weiß, dass das gegenwärtige Narrativ des Krisenmanagements die Pandemie nicht 
-beenden kann. 
+12. Ich weiß, dass das gegenwärtige Narrativ des Krisenmanagements die Pandemie nicht 
+beenden wird, jedoch könnte sie damit nicht-kausal korrelieren. 
 Die Impfung stellt einen zeitlich begrenzten Schutz gegenüber schweren Verläufen dar, 
-beeinflusst jedoch nicht die Inzidenz und kann nicht zu einer Lösung führen. 
+beeinflusst jedoch kaum die Inzidenz und kann daher nicht zu einer langfristigen Lösung führen. 
 Ich bin mir der Gefahr bewusst, dass aufgrund des zeitlich begrenzten Schutzes der Impfung 
 und dem Ignorieren von nachhaltigen Lösungen die Gefahr einer periodischen Impfung mit kurzem 
 und eventuell immer kürzer werdenden Intervall droht.  
 
-1. Dass sowohl die WHO als auch die europäische Arzneimittelbehörde (EMA) das regelmäßige 
-und nicht strategisch geplante Boostern als nicht zielführend betrachtet:  
+12. Ich weiß, dass sowohl die WHO als auch die europäische Arzneimittelbehörde (EMA) das 
+regelmäßige und nicht strategisch geplante Boostern als nicht zielführend betrachtet:  
 *„With […] evolution of the virus, a vaccination strategy based on repeated booster doses of the 
 original vaccine composition is unlikely to be appropriate or sustainable.“* - 
 [WHO](https://www.who.int/news/item/11-01-2022-interim-statement-on-covid-19-vaccines-in-the-context-of-the-circulation-of-the-omicron-sars-cov-2-variant-from-the-who-technical-advisory-group-on-covid-19-vaccine-composition)  
 *"While use of additional boosters can be part of contingency plans, repeated vaccinations within short intervals would not represent a sustainable long-term strategy,"* - [Reuters: Interview mit EMA's Head of Vaccines Strategy, Marco Cavaleri](https://www.reuters.com/business/healthcare-pharmaceuticals/eu-drug-regulator-says-more-data-needed-impact-omicron-vaccines-2022-01-11/)    
 
-1. Dass ich ein umstrittenes Gesetz befolge, welche ein nicht gewählter Kanzler und ein 
+13. Ich weiß, dass ich ein umstrittenes Gesetz befolge, welche ein nicht gewählter Kanzler und ein 
 Gesundheitsminister beschlossen hat, der in einer seiner ersten Öffentlichkeitsauftritte 
-in dieser Funktion wehement auf der Aussage beharrte: „Die Impfung geht nicht ins Blut“.[14]
+in dieser Funktion wehement auf der Aussage beharrte: „Die Impfung geht nicht ins Blut“[14]. 
+Ich bin mir zudem bewusst, dass eine große Anzahl an Wissenschaftlern die generelle Impfpflicht 
+ablehnt.
+
+14. Ich habe als Arzt selbstständig eine Nutzen-Risiken-Abschätzung für die impfwillige Person 
+durchgeführt. 
+Dabei habe ich jede eventuell eingeschränkte Unbefangenheit berücksichtigt, 
+wie sie etwa bei Werbematerial der Pharmaindustrie oder  
+Empfehlungen von Personen mit direkten bzw. indirekten Abhängigkeiten zur Pharmaindustrie oder 
+einer für den Zweck der Impfungförderung geschaffenen Institution besteht.
+Ich bin dabei zu dem Schluss gekommen, dass der Nutzen der Impfung die Risiken überwiegt 
+und sichere dies verbindlich zu.
+
+15. Ich weiß, dass die Wahrscheinlichkeit für Nebenwirkungen stark von der Charge des 
+Impfstoffes abhängt. 
+Ich sichere dem Impfwilligen rechtsverbindlich zu, dass die verwendete Charge eine niedrigere 
+Sterblichkeit als p=1/25000 aufweist, welche dem erwarteten Risiko eines fatalen Verlaufes 
+nach einer Infektion mit der dominanten Variante entspricht (siehe Punkt 5). 
+Bei Nichteinhaltung dieses Grenzwertes verpflichte ich mich für einen einmaligen Schadensersatz 
+von 10000€. Bei bleibenden Schäden nach dieser Impfung muss dieser Betrag jährlich dem 
+Impfwilligen ausbezahlt werden. 
+Die entsprechenden Werte werden aus der Datenbank von VAERS bezogen, welche auf der Webseite 
+https://howbadismybatch.com/ nach Impfcharge indiziert ist.
 
 
 ### Persönliche Nebenwirkungen 
 
 Der impfende Arzt bestätigt, sich über den gesundheitlichen Zustand des Impfwilligen ausreichend 
-informiert und eine individuelle Nutzen-Risiko Abwägung für die Durchführung der vorliegenden 
+informiert und eine individuelle Nutzen-Risiko Abwägung für die Verabreichung der vorliegenden 
 Impfung durchgeführt zu haben. 
-Insbesondere wurde auf Vorerkrankungen, eventuelle Allergien und den Nebenwirkungen von bisherigen 
+Insbesondere wurde sich über persönliche Vorerkrankungen, eventuelle Allergien und den Nebenwirkungen von bisherigen 
 und insbesondere COVID-19 Impfungen informiert.
 Der impfende Arzt bestätigt ausdrücklich, dass die Durchführung einer Impfung auf individueller 
 oder gesamtgesellschaftlichen Ebene der Nutzen klar dem Risiko überwiegt.
@@ -132,17 +144,17 @@ COVID-19 mRNA-Impfstoffe, Version 10, Stand: 21.10.2021" des Bundesministeriums 
 ebenfalls nicht freiwillig zugestimmt, sondern nur aufgrund einer politischen, wirtschaftlichen und 
 sozialen Nötigung. 
 
-1. Der impfende Arzt bestätigt ausdrücklich über alle genannten Punkten ausreichend informiert
+2. Der impfende Arzt bestätigt ausdrücklich, sich über alle genannten Punkten ausreichend informiert
  zu haben und diesen zuzustimmen.
 
-1. Ergibt sich, dass eine oder mehrere Bestimmungen dieses Vertrages unwirksam bzw ungültig sind, 
+3. Ergibt sich, dass eine oder mehrere Bestimmungen dieser Erklärung unwirksam bzw. ungültig sind, 
 so bleibt die Gültigkeit der übrigen Bestimmungen unberührt. 
 
-1. Der impfende Arzt verzichtet auf eine Irrtumsanfechtung. 
+4. Der impfende Arzt verzichtet auf eine Irrtumsanfechtung. 
 Zusätzlich verzichtet der impfende Arzt auf eine Haftungsanfechtung aufgrund einer Täuschung 
 oder der Darstellung verzerrter Tatsachen seitens der Regierung, Medien und Ärzteverbände. 
 
-1. Er impfende Arzt übernimmt jede Verantwortung für den medizinischen Eingriff.
+5. Er impfende Arzt übernimmt jede Verantwortung für den medizinischen Eingriff.
 
 ___
 ### Unterschriften
@@ -184,4 +196,4 @@ ___
 12.	Kampf, G. The epidemiological relevance of the COVID-19-vaccinated population is increasing. Lancet Reg. Heal. - Eur. 11, 10–11 (2021).
 13.	Eyre, D. W. et al. Effect of Covid-19 Vaccination on Transmission of Alpha and Delta Variants. N. Engl. J. Med. 1–13 (2022) doi:10.1056/NEJMoa2116597.
 13.	W. Mückstein, M. Fleischhacker. Streit um den Impfpass: Droht jetzt die totale Kontrolle? Task im Hangar-7 Servus-TV. 04.03.2021
-
+14. Bachner, A. F., Rainer, L. & Zuba, M. Intensivpflege und COVID. https://www.sozialministerium.at/dam/jcr:f472e977-e1bf-415f-95e1-35a1b53e608d/Factsheet_Coronavirus_Hospitalisierungen.pdf (2022).
